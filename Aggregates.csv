@@ -1,0 +1,671 @@
+ID_Country_iso2Code,ID_Country_iso3Code,ID_Country_numeric_M49,Country,Aggregates
+AF,AFG,4,Afghanistan,Fragile and Conflict-Affected Situations 
+AF,AFG,4,Afghanistan,Heavily indebted poor countries (HIPC)
+AF,AFG,4,Afghanistan,ldc
+AF,AFG,4,Afghanistan,Low income
+AF,AFG,4,Afghanistan,World
+AL,ALB,8,Albania,Upper middle income
+AL,ALB,8,Albania,World
+DZ,DZA,12,Algeria,Arab states
+DZ,DZA,12,Algeria,ldc
+DZ,DZA,12,Algeria,Lower middle income
+DZ,DZA,12,Algeria,World
+AS,ASM,16,American Samoa,Upper middle income
+AS,ASM,16,American Samoa,World
+AD,AND,20,Andorra,High income
+AD,AND,20,Andorra,World
+AO,AGO,24,Angola,ldc
+AO,AGO,24,Angola,Lower middle income
+AO,AGO,24,Angola,World
+AG,ATG,28,Antigua and Barbuda,Small_state
+AG,ATG,28,Antigua and Barbuda,High income
+AG,ATG,28,Antigua and Barbuda,World
+AR,ARG,32,Argentina,Upper middle income
+AR,ARG,32,Argentina,World
+AM,ARM,51,Armenia,Fragile and Conflict-Affected Situations 
+AM,ARM,51,Armenia,Upper middle income
+AM,ARM,51,Armenia,World
+AW,ABW,533,Aruba,High income
+AW,ABW,533,Aruba,World
+AU,AUS,36,Australia,OECD member
+AU,AUS,36,Australia,High income
+AU,AUS,36,Australia,World
+AT,AUT,40,Austria,OECD member
+AT,AUT,40,Austria,High income
+AT,AUT,40,Austria,World
+AZ,AZE,31,Azerbaijan,Fragile and Conflict-Affected Situations 
+AZ,AZE,31,Azerbaijan,Upper middle income
+AZ,AZE,31,Azerbaijan,World
+BS,BHS,44,"Bahamas, The",Small_state
+BS,BHS,44,"Bahamas, The",High income
+BS,BHS,44,"Bahamas, The",World
+BH,BHR,48,Bahrain,Arab states
+BH,BHR,48,Bahrain,Small_state
+BH,BHR,48,Bahrain,High income
+BH,BHR,48,Bahrain,World
+BD,BGD,50,Bangladesh,ldc
+BD,BGD,50,Bangladesh,Lower middle income
+BD,BGD,50,Bangladesh,World
+BB,BRB,52,Barbados,Small_state
+BB,BRB,52,Barbados,High income
+BB,BRB,52,Barbados,World
+BY,BLR,112,Belarus,Upper middle income
+BY,BLR,112,Belarus,World
+BE,BEL,56,Belgium,OECD member
+BE,BEL,56,Belgium,High income
+BE,BEL,56,Belgium,World
+BZ,BLZ,84,Belize,Small_state
+BZ,BLZ,84,Belize,Lower middle income
+BZ,BLZ,84,Belize,World
+BJ,BEN,204,Benin,Heavily indebted poor countries (HIPC)
+BJ,BEN,204,Benin,ldc
+BJ,BEN,204,Benin,Lower middle income
+BJ,BEN,204,Benin,World
+BM,BMU,60,Bermuda,High income
+BM,BMU,60,Bermuda,World
+BT,BTN,64,Bhutan,Small_state
+BT,BTN,64,Bhutan,ldc
+BT,BTN,64,Bhutan,Lower middle income
+BT,BTN,64,Bhutan,World
+BO,BOL,68,Bolivia,Heavily indebted poor countries (HIPC)
+BO,BOL,68,Bolivia,Lower middle income
+BO,BOL,68,Bolivia,World
+BA,BIH,70,Bosnia and Herzegovina,Upper middle income
+BA,BIH,70,Bosnia and Herzegovina,World
+BW,BWA,72,Botswana,Small_state
+BW,BWA,72,Botswana,Upper middle income
+BW,BWA,72,Botswana,World
+BR,BRA,76,Brazil,Upper middle income
+BR,BRA,76,Brazil,World
+VG,VGB,92,British Virgin Islands,High income
+VG,VGB,92,British Virgin Islands,World
+BN,BRN,96,Brunei Darussalam,Small_state
+BN,BRN,96,Brunei Darussalam,High income
+BN,BRN,96,Brunei Darussalam,World
+BG,BGR,100,Bulgaria,Upper middle income
+BG,BGR,100,Bulgaria,World
+BF,BFA,854,Burkina Faso,Fragile and Conflict-Affected Situations 
+BF,BFA,854,Burkina Faso,Heavily indebted poor countries (HIPC)
+BF,BFA,854,Burkina Faso,ldc
+BF,BFA,854,Burkina Faso,Low income
+BF,BFA,854,Burkina Faso,World
+BI,BDI,108,Burundi,Fragile and Conflict-Affected Situations 
+BI,BDI,108,Burundi,Heavily indebted poor countries (HIPC)
+BI,BDI,108,Burundi,ldc
+BI,BDI,108,Burundi,Low income
+BI,BDI,108,Burundi,World
+CV,CPV,132,Cabo Verde,Small_state
+CV,CPV,132,Cabo Verde,Lower middle income
+CV,CPV,132,Cabo Verde,World
+KH,KHM,116,Cambodia,ldc
+KH,KHM,116,Cambodia,Lower middle income
+KH,KHM,116,Cambodia,World
+CM,CMR,120,Cameroon,Fragile and Conflict-Affected Situations 
+CM,CMR,120,Cameroon,Heavily indebted poor countries (HIPC)
+CM,CMR,120,Cameroon,Lower middle income
+CM,CMR,120,Cameroon,World
+CA,CAN,124,Canada,OECD member
+CA,CAN,124,Canada,High income
+CA,CAN,124,Canada,World
+KY,CYM,136,Cayman Islands,High income
+KY,CYM,136,Cayman Islands,World
+CF,CAF,140,Central African Republic,Fragile and Conflict-Affected Situations 
+CF,CAF,140,Central African Republic,Heavily indebted poor countries (HIPC)
+CF,CAF,140,Central African Republic,ldc
+CF,CAF,140,Central African Republic,Low income
+CF,CAF,140,Central African Republic,World
+TD,TCD,148,Chad,Fragile and Conflict-Affected Situations 
+TD,TCD,148,Chad,Heavily indebted poor countries (HIPC)
+TD,TCD,148,Chad,ldc
+TD,TCD,148,Chad,Low income
+TD,TCD,148,Chad,World
+JG,CHI,,Channel Islands,High income
+JG,CHI,,Channel Islands,World
+CL,CHL,152,Chile,OECD member
+CL,CHL,152,Chile,High income
+CL,CHL,152,Chile,World
+CN,CHN,156,China,Upper middle income
+CN,CHN,156,China,World
+CO,COL,170,Colombia,OECD member
+CO,COL,170,Colombia,Upper middle income
+CO,COL,170,Colombia,World
+KM,COM,174,Comoros,Arab states
+KM,COM,174,Comoros,Small_state
+KM,COM,174,Comoros,Fragile and Conflict-Affected Situations 
+KM,COM,174,Comoros,Heavily indebted poor countries (HIPC)
+KM,COM,174,Comoros,ldc
+KM,COM,174,Comoros,Lower middle income
+KM,COM,174,Comoros,World
+CD,COD,180,"Congo, Dem. Rep.",Fragile and Conflict-Affected Situations 
+CD,COD,180,"Congo, Dem. Rep.",Heavily indebted poor countries (HIPC)
+CD,COD,180,"Congo, Dem. Rep.",ldc
+CD,COD,180,"Congo, Dem. Rep.",Low income
+CD,COD,180,"Congo, Dem. Rep.",World
+CG,COG,178,"Congo, Rep.",Fragile and Conflict-Affected Situations 
+CG,COG,178,"Congo, Rep.",Heavily indebted poor countries (HIPC)
+CG,COG,178,"Congo, Rep.",Lower middle income
+CG,COG,178,"Congo, Rep.",World
+CR,CRI,188,Costa Rica,OECD member
+CR,CRI,188,Costa Rica,Upper middle income
+CR,CRI,188,Costa Rica,World
+CI,CIV,384,Cote d'Ivoire,Heavily indebted poor countries (HIPC)
+CI,CIV,384,Cote d'Ivoire,Lower middle income
+CI,CIV,384,Cote d'Ivoire,World
+HR,HRV,191,Croatia,High income
+HR,HRV,191,Croatia,World
+CU,CUB,192,Cuba,Upper middle income
+CU,CUB,192,Cuba,World
+CW,CUW,531,Curacao,High income
+CW,CUW,531,Curacao,World
+CY,CYP,196,Cyprus,Small_state
+CY,CYP,196,Cyprus,High income
+CY,CYP,196,Cyprus,World
+CZ,CZE,203,Czech Republic,OECD member
+CZ,CZE,203,Czech Republic,High income
+CZ,CZE,203,Czech Republic,World
+DK,DNK,208,Denmark,OECD member
+DK,DNK,208,Denmark,High income
+DK,DNK,208,Denmark,World
+DJ,DJI,262,Djibouti,Arab states
+DJ,DJI,262,Djibouti,Small_state
+DJ,DJI,262,Djibouti,ldc
+DJ,DJI,262,Djibouti,Lower middle income
+DJ,DJI,262,Djibouti,World
+DM,DMA,212,Dominica,Small_state
+DM,DMA,212,Dominica,Upper middle income
+DM,DMA,212,Dominica,World
+DO,DOM,214,Dominican Republic,Upper middle income
+DO,DOM,214,Dominican Republic,World
+EC,ECU,218,Ecuador,Upper middle income
+EC,ECU,218,Ecuador,World
+EG,EGY,818,"Egypt, Arab Rep.",Arab states
+EG,EGY,818,"Egypt, Arab Rep.",Lower middle income
+EG,EGY,818,"Egypt, Arab Rep.",World
+SV,SLV,222,El Salvador,Lower middle income
+SV,SLV,222,El Salvador,World
+GQ,GNQ,226,Equatorial Guinea,Small_state
+GQ,GNQ,226,Equatorial Guinea,Upper middle income
+GQ,GNQ,226,Equatorial Guinea,World
+ER,ERI,232,Eritrea,Fragile and Conflict-Affected Situations 
+ER,ERI,232,Eritrea,Heavily indebted poor countries (HIPC)
+ER,ERI,232,Eritrea,ldc
+ER,ERI,232,Eritrea,Low income
+ER,ERI,232,Eritrea,World
+EE,EST,233,Estonia,OECD member
+EE,EST,233,Estonia,Small_state
+EE,EST,233,Estonia,High income
+EE,EST,233,Estonia,World
+SZ,SWZ,748,Eswatini,Small_state
+SZ,SWZ,748,Eswatini,Lower middle income
+SZ,SWZ,748,Eswatini,World
+ET,ETH,231,Ethiopia,Fragile and Conflict-Affected Situations 
+ET,ETH,231,Ethiopia,Heavily indebted poor countries (HIPC)
+ET,ETH,231,Ethiopia,ldc
+ET,ETH,231,Ethiopia,Low income
+ET,ETH,231,Ethiopia,World
+FO,FRO,234,Faroe Islands,High income
+FO,FRO,234,Faroe Islands,World
+FJ,FJI,242,Fiji,Small_state
+FJ,FJI,242,Fiji,Upper middle income
+FJ,FJI,242,Fiji,World
+FI,FIN,246,Finland,OECD member
+FI,FIN,246,Finland,High income
+FI,FIN,246,Finland,World
+FR,FRA,250,France,OECD member
+FR,FRA,250,France,High income
+FR,FRA,250,France,World
+PF,PYF,258,French Polynesia,High income
+PF,PYF,258,French Polynesia,World
+GA,GAB,266,Gabon,Small_state
+GA,GAB,266,Gabon,Upper middle income
+GA,GAB,266,Gabon,World
+GM,GMB,270,"Gambia, The",Small_state
+GM,GMB,270,"Gambia, The",Heavily indebted poor countries (HIPC)
+GM,GMB,270,"Gambia, The",ldc
+GM,GMB,270,"Gambia, The",Low income
+GM,GMB,270,"Gambia, The",World
+GE,GEO,268,Georgia,Upper middle income
+GE,GEO,268,Georgia,World
+DE,DEU,276,Germany,OECD member
+DE,DEU,276,Germany,High income
+DE,DEU,276,Germany,World
+GH,GHA,288,Ghana,Heavily indebted poor countries (HIPC)
+GH,GHA,288,Ghana,Lower middle income
+GH,GHA,288,Ghana,World
+GI,GIB,292,Gibraltar,High income
+GI,GIB,292,Gibraltar,World
+GR,GRC,300,Greece,OECD member
+GR,GRC,300,Greece,High income
+GR,GRC,300,Greece,World
+GL,GRL,304,Greenland,High income
+GL,GRL,304,Greenland,World
+GD,GRD,308,Grenada,Small_state
+GD,GRD,308,Grenada,Upper middle income
+GD,GRD,308,Grenada,World
+GU,GUM,316,Guam,High income
+GU,GUM,316,Guam,World
+GT,GTM,320,Guatemala,Upper middle income
+GT,GTM,320,Guatemala,World
+GN,GIN,324,Guinea,Heavily indebted poor countries (HIPC)
+GN,GIN,324,Guinea,ldc
+GN,GIN,324,Guinea,Low income
+GN,GIN,324,Guinea,World
+GW,GNB,624,Guinea-Bissau,Small_state
+GW,GNB,624,Guinea-Bissau,Fragile and Conflict-Affected Situations 
+GW,GNB,624,Guinea-Bissau,Heavily indebted poor countries (HIPC)
+GW,GNB,624,Guinea-Bissau,ldc
+GW,GNB,624,Guinea-Bissau,Low income
+GW,GNB,624,Guinea-Bissau,World
+GY,GUY,328,Guyana,Small_state
+GY,GUY,328,Guyana,Heavily indebted poor countries (HIPC)
+GY,GUY,328,Guyana,Upper middle income
+GY,GUY,328,Guyana,World
+HT,HTI,332,Haiti,Fragile and Conflict-Affected Situations 
+HT,HTI,332,Haiti,Heavily indebted poor countries (HIPC)
+HT,HTI,332,Haiti,ldc
+HT,HTI,332,Haiti,Lower middle income
+HT,HTI,332,Haiti,World
+HN,HND,340,Honduras,Heavily indebted poor countries (HIPC)
+HN,HND,340,Honduras,Lower middle income
+HN,HND,340,Honduras,World
+HK,HKG,344,"Hong Kong SAR, China",High income
+HK,HKG,344,"Hong Kong SAR, China",World
+HU,HUN,348,Hungary,OECD member
+HU,HUN,348,Hungary,High income
+HU,HUN,348,Hungary,World
+IS,ISL,352,Iceland,OECD member
+IS,ISL,352,Iceland,Small_state
+IS,ISL,352,Iceland,High income
+IS,ISL,352,Iceland,World
+IN,IND,356,India,Lower middle income
+IN,IND,356,India,World
+ID,IDN,360,Indonesia,Lower middle income
+ID,IDN,360,Indonesia,World
+IR,IRN,364,"Iran, Islamic Rep.",Lower middle income
+IR,IRN,364,"Iran, Islamic Rep.",World
+IQ,IRQ,368,Iraq,Arab states
+IQ,IRQ,368,Iraq,Fragile and Conflict-Affected Situations 
+IQ,IRQ,368,Iraq,Upper middle income
+IQ,IRQ,368,Iraq,World
+IE,IRL,372,Ireland,OECD member
+IE,IRL,372,Ireland,High income
+IE,IRL,372,Ireland,World
+IM,IMN,833,Isle of Man,High income
+IM,IMN,833,Isle of Man,World
+IL,ISR,376,Israel,OECD member
+IL,ISR,376,Israel,High income
+IL,ISR,376,Israel,World
+IT,ITA,380,Italy,OECD member
+IT,ITA,380,Italy,High income
+IT,ITA,380,Italy,World
+JM,JAM,388,Jamaica,Small_state
+JM,JAM,388,Jamaica,Upper middle income
+JM,JAM,388,Jamaica,World
+JP,JPN,392,Japan,OECD member
+JP,JPN,392,Japan,High income
+JP,JPN,392,Japan,World
+JO,JOR,400,Jordan,Arab states
+JO,JOR,400,Jordan,Upper middle income
+JO,JOR,400,Jordan,World
+KZ,KAZ,398,Kazakhstan,Upper middle income
+KZ,KAZ,398,Kazakhstan,World
+KE,KEN,404,Kenya,Lower middle income
+KE,KEN,404,Kenya,World
+KI,KIR,296,Kiribati,Small_state
+KI,KIR,296,Kiribati,Fragile and Conflict-Affected Situations 
+KI,KIR,296,Kiribati,ldc
+KI,KIR,296,Kiribati,Lower middle income
+KI,KIR,296,Kiribati,World
+KP,PRK,408,"Korea, Dem. People's Rep.",Low income
+KP,PRK,408,"Korea, Dem. People's Rep.",World
+KR,KOR,410,"Korea, Rep.",OECD member
+KR,KOR,410,"Korea, Rep.",High income
+KR,KOR,410,"Korea, Rep.",World
+XK,XKX,,Kosovo,Fragile and Conflict-Affected Situations 
+XK,XKX,,Kosovo,Upper middle income
+XK,XKX,,Kosovo,World
+KW,KWT,414,Kuwait,Arab states
+KW,KWT,414,Kuwait,High income
+KW,KWT,414,Kuwait,World
+KG,KGZ,417,Kyrgyz Republic,Lower middle income
+KG,KGZ,417,Kyrgyz Republic,World
+LA,LAO,418,Lao PDR,ldc
+LA,LAO,418,Lao PDR,Lower middle income
+LA,LAO,418,Lao PDR,World
+LV,LVA,428,Latvia,OECD member
+LV,LVA,428,Latvia,High income
+LV,LVA,428,Latvia,World
+LB,LBN,422,Lebanon,Arab states
+LB,LBN,422,Lebanon,Fragile and Conflict-Affected Situations 
+LB,LBN,422,Lebanon,Upper middle income
+LB,LBN,422,Lebanon,World
+LS,LSO,426,Lesotho,Small_state
+LS,LSO,426,Lesotho,ldc
+LS,LSO,426,Lesotho,Lower middle income
+LS,LSO,426,Lesotho,World
+LR,LBR,430,Liberia,Heavily indebted poor countries (HIPC)
+LR,LBR,430,Liberia,ldc
+LR,LBR,430,Liberia,Low income
+LR,LBR,430,Liberia,World
+LY,LBY,434,Libya,Arab states
+LY,LBY,434,Libya,Fragile and Conflict-Affected Situations 
+LY,LBY,434,Libya,Upper middle income
+LY,LBY,434,Libya,World
+LI,LIE,438,Liechtenstein,High income
+LI,LIE,438,Liechtenstein,World
+LT,LTU,440,Lithuania,OECD member
+LT,LTU,440,Lithuania,High income
+LT,LTU,440,Lithuania,World
+LU,LUX,442,Luxembourg,OECD member
+LU,LUX,442,Luxembourg,High income
+LU,LUX,442,Luxembourg,World
+MO,MAC,446,"Macao SAR, China",High income
+MO,MAC,446,"Macao SAR, China",World
+MG,MDG,450,Madagascar,Heavily indebted poor countries (HIPC)
+MG,MDG,450,Madagascar,ldc
+MG,MDG,450,Madagascar,Low income
+MG,MDG,450,Madagascar,World
+MW,MWI,454,Malawi,Heavily indebted poor countries (HIPC)
+MW,MWI,454,Malawi,ldc
+MW,MWI,454,Malawi,Low income
+MW,MWI,454,Malawi,World
+MY,MYS,458,Malaysia,Upper middle income
+MY,MYS,458,Malaysia,World
+MV,MDV,462,Maldives,Small_state
+MV,MDV,462,Maldives,Upper middle income
+MV,MDV,462,Maldives,World
+ML,MLI,466,Mali,Fragile and Conflict-Affected Situations 
+ML,MLI,466,Mali,Heavily indebted poor countries (HIPC)
+ML,MLI,466,Mali,ldc
+ML,MLI,466,Mali,Low income
+ML,MLI,466,Mali,World
+MT,MLT,470,Malta,Small_state
+MT,MLT,470,Malta,High income
+MT,MLT,470,Malta,World
+MH,MHL,584,Marshall Islands,Small_state
+MH,MHL,584,Marshall Islands,Fragile and Conflict-Affected Situations 
+MH,MHL,584,Marshall Islands,Upper middle income
+MH,MHL,584,Marshall Islands,World
+MR,MRT,478,Mauritania,Arab states
+MR,MRT,478,Mauritania,Heavily indebted poor countries (HIPC)
+MR,MRT,478,Mauritania,ldc
+MR,MRT,478,Mauritania,Lower middle income
+MR,MRT,478,Mauritania,World
+MU,MUS,480,Mauritius,Small_state
+MU,MUS,480,Mauritius,Upper middle income
+MU,MUS,480,Mauritius,World
+MX,MEX,484,Mexico,OECD member
+MX,MEX,484,Mexico,Upper middle income
+MX,MEX,484,Mexico,World
+FM,FSM,583,"Micronesia, Fed. Sts.",Small_state
+FM,FSM,583,"Micronesia, Fed. Sts.",Fragile and Conflict-Affected Situations 
+FM,FSM,583,"Micronesia, Fed. Sts.",Lower middle income
+FM,FSM,583,"Micronesia, Fed. Sts.",World
+MD,MDA,498,Moldova,Upper middle income
+MD,MDA,498,Moldova,World
+MC,MCO,492,Monaco,High income
+MC,MCO,492,Monaco,World
+MN,MNG,496,Mongolia,Lower middle income
+MN,MNG,496,Mongolia,World
+ME,MNE,499,Montenegro,Small_state
+ME,MNE,499,Montenegro,Upper middle income
+ME,MNE,499,Montenegro,World
+MA,MAR,504,Morocco,Arab states
+MA,MAR,504,Morocco,Lower middle income
+MA,MAR,504,Morocco,World
+MZ,MOZ,508,Mozambique,Fragile and Conflict-Affected Situations 
+MZ,MOZ,508,Mozambique,Heavily indebted poor countries (HIPC)
+MZ,MOZ,508,Mozambique,ldc
+MZ,MOZ,508,Mozambique,Low income
+MZ,MOZ,508,Mozambique,World
+MM,MMR,104,Myanmar,Fragile and Conflict-Affected Situations 
+MM,MMR,104,Myanmar,ldc
+MM,MMR,104,Myanmar,Lower middle income
+MM,MMR,104,Myanmar,World
+NA,NAM,516,Namibia,Small_state
+NA,NAM,516,Namibia,Upper middle income
+NA,NAM,516,Namibia,World
+NR,NRU,520,Nauru,Small_state
+NR,NRU,520,Nauru,High income
+NR,NRU,520,Nauru,World
+NP,NPL,524,Nepal,ldc
+NP,NPL,524,Nepal,Lower middle income
+NP,NPL,524,Nepal,World
+NL,NLD,528,Netherlands,OECD member
+NL,NLD,528,Netherlands,High income
+NL,NLD,528,Netherlands,World
+NC,NCL,540,New Caledonia,High income
+NC,NCL,540,New Caledonia,World
+NZ,NZL,554,New Zealand,OECD member
+NZ,NZL,554,New Zealand,High income
+NZ,NZL,554,New Zealand,World
+NI,NIC,558,Nicaragua,Heavily indebted poor countries (HIPC)
+NI,NIC,558,Nicaragua,Lower middle income
+NI,NIC,558,Nicaragua,World
+NE,NER,562,Niger,Fragile and Conflict-Affected Situations 
+NE,NER,562,Niger,Heavily indebted poor countries (HIPC)
+NE,NER,562,Niger,ldc
+NE,NER,562,Niger,Low income
+NE,NER,562,Niger,World
+NG,NGA,566,Nigeria,Fragile and Conflict-Affected Situations 
+NG,NGA,566,Nigeria,Lower middle income
+NG,NGA,566,Nigeria,World
+MK,MKD,807,North Macedonia,Upper middle income
+MK,MKD,807,North Macedonia,World
+MP,MNP,580,Northern Mariana Islands,High income
+MP,MNP,580,Northern Mariana Islands,World
+NO,NOR,578,Norway,OECD member
+NO,NOR,578,Norway,High income
+NO,NOR,578,Norway,World
+OM,OMN,512,Oman,Arab states
+OM,OMN,512,Oman,High income
+OM,OMN,512,Oman,World
+PK,PAK,586,Pakistan,Lower middle income
+PK,PAK,586,Pakistan,World
+PW,PLW,585,Palau,Small_state
+PW,PLW,585,Palau,High income
+PW,PLW,585,Palau,World
+PA,PAN,591,Panama,Upper middle income
+PA,PAN,591,Panama,World
+PG,PNG,598,Papua New Guinea,Fragile and Conflict-Affected Situations 
+PG,PNG,598,Papua New Guinea,Lower middle income
+PG,PNG,598,Papua New Guinea,World
+PY,PRY,600,Paraguay,Upper middle income
+PY,PRY,600,Paraguay,World
+PE,PER,604,Peru,Upper middle income
+PE,PER,604,Peru,World
+PH,PHL,608,Philippines,Lower middle income
+PH,PHL,608,Philippines,World
+PL,POL,616,Poland,OECD member
+PL,POL,616,Poland,High income
+PL,POL,616,Poland,World
+PT,PRT,620,Portugal,OECD member
+PT,PRT,620,Portugal,High income
+PT,PRT,620,Portugal,World
+PR,PRI,630,Puerto Rico,High income
+PR,PRI,630,Puerto Rico,World
+QA,QAT,634,Qatar,Arab states
+QA,QAT,634,Qatar,Small_state
+QA,QAT,634,Qatar,High income
+QA,QAT,634,Qatar,World
+RO,ROU,642,Romania,Upper middle income
+RO,ROU,642,Romania,World
+RU,RUS,643,Russian Federation,Upper middle income
+RU,RUS,643,Russian Federation,World
+RW,RWA,646,Rwanda,Heavily indebted poor countries (HIPC)
+RW,RWA,646,Rwanda,ldc
+RW,RWA,646,Rwanda,Low income
+RW,RWA,646,Rwanda,World
+WS,WSM,882,Samoa,Small_state
+WS,WSM,882,Samoa,Lower middle income
+WS,WSM,882,Samoa,World
+SM,SMR,674,San Marino,Small_state
+SM,SMR,674,San Marino,High income
+SM,SMR,674,San Marino,World
+ST,STP,678,Sao Tome and Principe,Small_state
+ST,STP,678,Sao Tome and Principe,Heavily indebted poor countries (HIPC)
+ST,STP,678,Sao Tome and Principe,ldc
+ST,STP,678,Sao Tome and Principe,Lower middle income
+ST,STP,678,Sao Tome and Principe,World
+SA,SAU,682,Saudi Arabia,Arab states
+SA,SAU,682,Saudi Arabia,High income
+SA,SAU,682,Saudi Arabia,World
+SN,SEN,686,Senegal,Heavily indebted poor countries (HIPC)
+SN,SEN,686,Senegal,ldc
+SN,SEN,686,Senegal,Lower middle income
+SN,SEN,686,Senegal,World
+RS,SRB,688,Serbia,Upper middle income
+RS,SRB,688,Serbia,World
+SC,SYC,690,Seychelles,Small_state
+SC,SYC,690,Seychelles,High income
+SC,SYC,690,Seychelles,World
+SL,SLE,694,Sierra Leone,Heavily indebted poor countries (HIPC)
+SL,SLE,694,Sierra Leone,ldc
+SL,SLE,694,Sierra Leone,Low income
+SL,SLE,694,Sierra Leone,World
+SG,SGP,702,Singapore,High income
+SG,SGP,702,Singapore,World
+SX,SXM,534,Sint Maarten (Dutch part),High income
+SX,SXM,534,Sint Maarten (Dutch part),World
+SK,SVK,703,Slovak Republic,OECD member
+SK,SVK,703,Slovak Republic,High income
+SK,SVK,703,Slovak Republic,World
+SI,SVN,705,Slovenia,OECD member
+SI,SVN,705,Slovenia,High income
+SI,SVN,705,Slovenia,World
+SB,SLB,90,Solomon Islands,Small_state
+SB,SLB,90,Solomon Islands,Fragile and Conflict-Affected Situations 
+SB,SLB,90,Solomon Islands,ldc
+SB,SLB,90,Solomon Islands,Lower middle income
+SB,SLB,90,Solomon Islands,World
+SO,SOM,706,Somalia,Arab states
+SO,SOM,706,Somalia,Fragile and Conflict-Affected Situations 
+SO,SOM,706,Somalia,Heavily indebted poor countries (HIPC)
+SO,SOM,706,Somalia,ldc
+SO,SOM,706,Somalia,Low income
+SO,SOM,706,Somalia,World
+ZA,ZAF,710,South Africa,Upper middle income
+ZA,ZAF,710,South Africa,World
+SS,SSD,728,South Sudan,Fragile and Conflict-Affected Situations 
+SS,SSD,728,South Sudan,ldc
+SS,SSD,728,South Sudan,Low income
+SS,SSD,728,South Sudan,World
+ES,ESP,724,Spain,OECD member
+ES,ESP,724,Spain,High income
+ES,ESP,724,Spain,World
+LK,LKA,144,Sri Lanka,Lower middle income
+LK,LKA,144,Sri Lanka,World
+KN,KNA,659,St. Kitts and Nevis,Small_state
+KN,KNA,659,St. Kitts and Nevis,High income
+KN,KNA,659,St. Kitts and Nevis,World
+LC,LCA,662,St. Lucia,Small_state
+LC,LCA,662,St. Lucia,Upper middle income
+LC,LCA,662,St. Lucia,World
+MF,MAF,663,St. Martin (French part),High income
+MF,MAF,663,St. Martin (French part),World
+VC,VCT,670,St. Vincent and the Grenadines,Small_state
+VC,VCT,670,St. Vincent and the Grenadines,Upper middle income
+VC,VCT,670,St. Vincent and the Grenadines,World
+SD,SDN,729,Sudan,Arab states
+SD,SDN,729,Sudan,Fragile and Conflict-Affected Situations 
+SD,SDN,729,Sudan,Heavily indebted poor countries (HIPC)
+SD,SDN,729,Sudan,ldc
+SD,SDN,729,Sudan,Low income
+SD,SDN,729,Sudan,World
+SR,SUR,740,Suriname,Small_state
+SR,SUR,740,Suriname,Upper middle income
+SR,SUR,740,Suriname,World
+SE,SWE,752,Sweden,OECD member
+SE,SWE,752,Sweden,High income
+SE,SWE,752,Sweden,World
+CH,CHE,756,Switzerland,OECD member
+CH,CHE,756,Switzerland,High income
+CH,CHE,756,Switzerland,World
+SY,SYR,760,Syrian Arab Republic,Arab states
+SY,SYR,760,Syrian Arab Republic,Fragile and Conflict-Affected Situations 
+SY,SYR,760,Syrian Arab Republic,Low income
+SY,SYR,760,Syrian Arab Republic,World
+TW,TWN,158,"Taiwan, China",High income
+TW,TWN,158,"Taiwan, China",World
+TJ,TJK,762,Tajikistan,Lower middle income
+TJ,TJK,762,Tajikistan,World
+TZ,TZA,834,Tanzania,Heavily indebted poor countries (HIPC)
+TZ,TZA,834,Tanzania,ldc
+TZ,TZA,834,Tanzania,Lower middle income
+TZ,TZA,834,Tanzania,World
+TH,THA,764,Thailand,Upper middle income
+TH,THA,764,Thailand,World
+TL,TLS,626,Timor-Leste,Small_state
+TL,TLS,626,Timor-Leste,Fragile and Conflict-Affected Situations 
+TL,TLS,626,Timor-Leste,ldc
+TL,TLS,626,Timor-Leste,Lower middle income
+TL,TLS,626,Timor-Leste,World
+TG,TGO,768,Togo,Heavily indebted poor countries (HIPC)
+TG,TGO,768,Togo,ldc
+TG,TGO,768,Togo,Low income
+TG,TGO,768,Togo,World
+TO,TON,776,Tonga,Small_state
+TO,TON,776,Tonga,Upper middle income
+TO,TON,776,Tonga,World
+TT,TTO,780,Trinidad and Tobago,Small_state
+TT,TTO,780,Trinidad and Tobago,High income
+TT,TTO,780,Trinidad and Tobago,World
+TN,TUN,788,Tunisia,Arab states
+TN,TUN,788,Tunisia,Lower middle income
+TN,TUN,788,Tunisia,World
+TR,TUR,792,Turkey,OECD member
+TR,TUR,792,Turkey,Upper middle income
+TR,TUR,792,Turkey,World
+TM,TKM,795,Turkmenistan,Upper middle income
+TM,TKM,795,Turkmenistan,World
+TC,TCA,796,Turks and Caicos Islands,High income
+TC,TCA,796,Turks and Caicos Islands,World
+TV,TUV,798,Tuvalu,Small_state
+TV,TUV,798,Tuvalu,Fragile and Conflict-Affected Situations 
+TV,TUV,798,Tuvalu,ldc
+TV,TUV,798,Tuvalu,Upper middle income
+TV,TUV,798,Tuvalu,World
+UG,UGA,800,Uganda,Heavily indebted poor countries (HIPC)
+UG,UGA,800,Uganda,ldc
+UG,UGA,800,Uganda,Low income
+UG,UGA,800,Uganda,World
+UA,UKR,804,Ukraine,Lower middle income
+UA,UKR,804,Ukraine,World
+AE,ARE,784,United Arab Emirates,Arab states
+AE,ARE,784,United Arab Emirates,High income
+AE,ARE,784,United Arab Emirates,World
+GB,GBR,826,United Kingdom,OECD member
+GB,GBR,826,United Kingdom,High income
+GB,GBR,826,United Kingdom,World
+US,USA,840,United States,OECD member
+US,USA,840,United States,High income
+US,USA,840,United States,World
+UY,URY,858,Uruguay,High income
+UY,URY,858,Uruguay,World
+UZ,UZB,860,Uzbekistan,Lower middle income
+UZ,UZB,860,Uzbekistan,World
+VU,VUT,548,Vanuatu,Small_state
+VU,VUT,548,Vanuatu,Lower middle income
+VU,VUT,548,Vanuatu,World
+VE,VEN,862,"Venezuela, RB",Fragile and Conflict-Affected Situations 
+VE,VEN,862,"Venezuela, RB",World
+VN,VNM,704,Vietnam,Lower middle income
+VN,VNM,704,Vietnam,World
+VI,VIR,850,Virgin Islands (U.S.),High income
+VI,VIR,850,Virgin Islands (U.S.),World
+PS,PSE,275,West Bank and Gaza,Arab states
+PS,PSE,275,West Bank and Gaza,Fragile and Conflict-Affected Situations 
+PS,PSE,275,West Bank and Gaza,Lower middle income
+PS,PSE,275,West Bank and Gaza,World
+YE,YEM,887,"Yemen, Rep.",Arab states
+YE,YEM,887,"Yemen, Rep.",Fragile and Conflict-Affected Situations 
+YE,YEM,887,"Yemen, Rep.",ldc
+YE,YEM,887,"Yemen, Rep.",Low income
+YE,YEM,887,"Yemen, Rep.",World
+ZM,ZMB,894,Zambia,Heavily indebted poor countries (HIPC)
+ZM,ZMB,894,Zambia,ldc
+ZM,ZMB,894,Zambia,Lower middle income
+ZM,ZMB,894,Zambia,World
+ZW,ZWE,716,Zimbabwe,Fragile and Conflict-Affected Situations 
+ZW,ZWE,716,Zimbabwe,Lower middle income
+ZW,ZWE,716,Zimbabwe,World
