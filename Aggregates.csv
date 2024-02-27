@@ -1,4 +1,4 @@
-Country or Area,M49 Code,ISO-alpha2 Code,ISO-alpha3 Code,Aggregates
+Country or Area,M49 Code,iso2,iso3,country_grouping
 Algeria,12,DZ,DZA,Africa
 Algeria,12,DZ,DZA,Northern Africa
 Algeria,12,DZ,DZA,Northern Africa
@@ -481,14 +481,14 @@ Switzerland,756,CH,CHE,Europe
 Switzerland,756,CH,CHE,Western Europe
 Switzerland,756,CH,CHE,High income
 Switzerland,756,CH,CHE,OECD member
-C魌e d扞voire,384,CI,CIV,Africa
-C魌e d扞voire,384,CI,CIV,Sub-Saharan Africa
-C魌e d扞voire,384,CI,CIV,Western Africa
-C魌e d扞voire,384,CI,CIV,HIPC
-C魌e d扞voire,384,CI,CIV,Lower middle income
-C魌e d扞voire,384,CI,CIV,Transit countries
-C魌e d扞voire,384,CI,CIV,Western Africa
-C魌e d扞voire,384,CI,CIV,Oil Exporting
+C么te d聮Ivoire,384,CI,CIV,Africa
+C么te d聮Ivoire,384,CI,CIV,Sub-Saharan Africa
+C么te d聮Ivoire,384,CI,CIV,Western Africa
+C么te d聮Ivoire,384,CI,CIV,HIPC
+C么te d聮Ivoire,384,CI,CIV,Lower middle income
+C么te d聮Ivoire,384,CI,CIV,Transit countries
+C么te d聮Ivoire,384,CI,CIV,Western Africa
+C么te d聮Ivoire,384,CI,CIV,Oil Exporting
 Chile,152,CL,CHL,Americas
 Chile,152,CL,CHL,Latin America and the Caribbean
 Chile,152,CL,CHL,South America
@@ -594,11 +594,11 @@ Senegal,686,SN,SEN,HIPC
 Senegal,686,SN,SEN,Lower middle income
 Senegal,686,SN,SEN,Transit countries
 Senegal,686,SN,SEN,Western Africa
-Cura鏰o,531,CW,CUW,Americas
-Cura鏰o,531,CW,CUW,Latin America and the Caribbean
-Cura鏰o,531,CW,CUW,Caribbean
-Cura鏰o,531,CW,CUW,Small Island Developing States (SIDS)
-Cura鏰o,531,CW,CUW,High income
+Cura莽ao,531,CW,CUW,Americas
+Cura莽ao,531,CW,CUW,Latin America and the Caribbean
+Cura莽ao,531,CW,CUW,Caribbean
+Cura莽ao,531,CW,CUW,Small Island Developing States (SIDS)
+Cura莽ao,531,CW,CUW,High income
 Sierra Leone,694,SL,SLE,Africa
 Sierra Leone,694,SL,SLE,Sub-Saharan Africa
 Sierra Leone,694,SL,SLE,Western Africa
@@ -719,9 +719,9 @@ Puerto Rico,630,PR,PRI,Latin America and the Caribbean
 Puerto Rico,630,PR,PRI,Caribbean
 Puerto Rico,630,PR,PRI,Small Island Developing States (SIDS)
 Puerto Rico,630,PR,PRI,High income
-Saint Barth閘emy,652,BL,BLM,Americas
-Saint Barth閘emy,652,BL,BLM,Latin America and the Caribbean
-Saint Barth閘emy,652,BL,BLM,Caribbean
+Saint Barth茅lemy,652,BL,BLM,Americas
+Saint Barth茅lemy,652,BL,BLM,Latin America and the Caribbean
+Saint Barth茅lemy,652,BL,BLM,Caribbean
 Saint Kitts and Nevis,659,KN,KNA,Americas
 Saint Kitts and Nevis,659,KN,KNA,Latin America and the Caribbean
 Saint Kitts and Nevis,659,KN,KNA,Caribbean
@@ -1106,11 +1106,11 @@ Syrian Arab Republic,760,SY,SYR,Arab states
 Syrian Arab Republic,760,SY,SYR,Fragile and Conflict-Affected Situations 
 Syrian Arab Republic,760,SY,SYR,Low income
 Syrian Arab Republic,760,SY,SYR,Oil Exporting
-T黵kiye,792,TR,TUR,Asia
-T黵kiye,792,TR,TUR,Western Asia
-T黵kiye,792,TR,TUR,OECD member
-T黵kiye,792,TR,TUR,Transit countries
-T黵kiye,792,TR,TUR,Upper middle income
+T眉rkiye,792,TR,TUR,Asia
+T眉rkiye,792,TR,TUR,Western Asia
+T眉rkiye,792,TR,TUR,OECD member
+T眉rkiye,792,TR,TUR,Transit countries
+T眉rkiye,792,TR,TUR,Upper middle income
 Yemen,887,YE,YEM,Asia
 Yemen,887,YE,YEM,Western Asia
 Yemen,887,YE,YEM,Least Developed Countries (LDC)
@@ -1133,8 +1133,8 @@ Slovakia,703,SK,SVK,Oil Exporting
 Ukraine,804,UA,UKR,Europe
 Ukraine,804,UA,UKR,Eastern Europe
 Ukraine,804,UA,UKR,Lower middle income
-舕and Islands,248,AX,ALA,Europe
-舕and Islands,248,AX,ALA,Northern Europe
+脜land Islands,248,AX,ALA,Europe
+脜land Islands,248,AX,ALA,Northern Europe
 San Marino,674,SM,SMR,Europe
 San Marino,674,SM,SMR,Southern Europe
 San Marino,674,SM,SMR,High income
